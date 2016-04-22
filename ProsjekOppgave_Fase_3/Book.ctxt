@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title\ publisher\ year
+comment0.target=Book(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Book\r\n\ \r\n\ @parm\ id,\ title,\ publisher,\ year\r\n
+comment1.params=
+comment1.target=java.lang.String\ getEdition()
+comment1.text=\r\n\ Get\ method\ for\ the\ edition\r\n\ \r\n\ @return\ edition\ E.i.\ edition.1\ or\ edition.2\r\n
+comment2.params=
+comment2.target=int\ getReleaseYear()
+comment2.text=\r\n\ Get\ method\ for\ the\ release\ year.\r\n\ \r\n\ @return\ year\ \ \ returnes\ the\ release\ year\ of\ the\ book\r\n
+comment3.params=
+comment3.target=java.lang.String\ getBookInfo()
+comment3.text=\r\n\ Method\ for\ getting\ the\ information\ about\ the\ given\ book\ as\ a\ string.\r\n\ \r\n\ @return\ The\ id,\ title,\ author\ and\ the\ year\ published\ as\ a\ string\r\n
+numComments=4

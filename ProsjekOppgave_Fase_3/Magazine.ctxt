@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title\ publisher
+comment0.target=Magazine(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Magazine\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMagazineGenre()
+comment1.text=\r\n\ Get\ method\ for\ the\ genre\ variable\r\n\ E.i.\ sport,\ cars\ or\ tech\r\n\ @return\ genre\ \ \ \ returns\ a\ string\ of\ genre\ of\ the\ Magazine\r\n\r\n
+comment2.params=
+comment2.target=int\ getMagazinePublications()
+comment2.text=\r\n\ Get\ method\ for\ the\ number\ of\ annual\ publications\r\n\ \r\n\ @return\ annualPublications\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNewsPaperInfo()
+comment3.text=\r\n\ Get\ method\ for\ the\ information\ about\ Magazine.\r\n\ \r\n\ @return\ returnString\ \ \ \ \ Returns\ a\ strin\ of\ information\ about\ the\ Magazine\r\n
+numComments=4

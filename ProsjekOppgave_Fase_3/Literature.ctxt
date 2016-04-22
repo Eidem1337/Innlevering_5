@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title\ publisher
+comment0.target=Literature(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Literature\r\n
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+comment1.text=\r\n\ Returns\ the\ title\ of\ the\ book.\r\n\r\n\ @return\ title;\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPublisher()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ Author\r\n\r\n\ @return\ \ \ \ \ author\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLiteratureInfo()
+comment3.text=\r\n\ Returns\ a\ string\ with\ info\ about\ the\ literature\r\n\ \r\n\ @return\ returnString\r\n
+numComments=4

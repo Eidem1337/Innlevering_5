@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InputReader()
+comment1.params=
+comment1.target=java.lang.String\ getInputString()
+comment1.text=\r\n\ Method\ to\ get\ input\ from\ user\ as\ String.\r\n\ @return\ returns\ user\ input\ as\ String.\r\n
+comment2.params=message
+comment2.target=java.lang.String\ getInputString(java.lang.String)
+comment2.text=\r\n\ Method\ to\ get\ input\ from\ user\ as\ String.\ Includes\ a\ message\ to\ the\ user.\r\n\ @param\ message\ String\ to\ show\ user\ before\ getting\ input.\r\n\ @return\ returns\ user\ input\ as\ String.\r\n
+comment3.params=
+comment3.target=int\ getInputInt()
+comment3.text=\r\n\ Method\ to\ get\ input\ from\ user\ as\ Int.\r\n\ @return\ returns\ user\ input\ as\ Int.\r\n\ \r\n
+comment4.params=message
+comment4.target=int\ getInputInt(java.lang.String)
+comment4.text=\r\n\ Method\ to\ get\ input\ from\ user\ as\ Int\r\n\ @param\ message\ String\ to\ show\ user\ before\ input\r\n\ @return\ returns\ user\ input\ as\ Int.\r\n
+numComments=5

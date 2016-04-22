@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title\ publisher
+comment0.target=Periodical(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Periodicals\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPeriodicalGenre()
+comment1.text=\r\n\ Get\ method\ for\ the\ peropdicals\ genre.\ The\ genre\ of\ the\ periodical.\ e.i\ sport,\ music\ or\ cars.\r\n\ \r\n\ @returns\ genre\ \ \ Returns\ the\ string\ of\ the\ genre\r\n
+comment2.params=
+comment2.target=int\ getPeriodicalPublications()
+comment2.text=\r\n\ Get\ method\ for\ the\ periodicals\ publications.\ The\ number\ of\ annual\ publications\ of\ the\ periodical.\r\n\ \r\n\ @return\ annualPublications\ \ \ number\ of\ annual\ publications\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPeriodicalInfo()
+comment3.text=\r\n\ Get\ method\ for\ the\ info\ about\ the\ news\ paper.\ lists\ up\ all\ information\ in\ a\ string\r\n\ \r\n\ @return\ returnString\ \ \ \ \ returns\ the\ string\ with\ info\ about\ the\ news\ paper\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title\ publisher
+comment0.target=NewsPaper(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NewsPaper\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNewsPaperGenre()
+comment1.text=\r\n\ get\ method\ for\ the\ newspapers\ genre.\ e.i.\ sports,\ news\ ect.\r\n\ \r\n\ @return\ genre\ \ \ \ returns\ the\ newspapers\ genre\ in\ a\ string\r\n
+comment2.params=
+comment2.target=int\ getNewsPaperPublications()
+comment2.text=\r\n\ Get\ method\ for\ the\ number\ of\ annual\ publications\ of\ a\ news\ paper.\ e.i.\ 6\ ,\ 12\ or\ 4\r\n\ \r\n\ @return\ annualPublications\ \ \ \ \ \ \ retuns\ the\ integer\ value\ of\ publications\ every\ year.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNewsPaperInfo()
+comment3.text=\r\n\ Get\ method\ for\ the\ news\ papers\ info\ string.\ Gives\ a\ string\ of\ all\ the\ information\ about\ the\ news\ paper\r\n\ E.i.\ Title\:\ New\ York\ Times,\ Publisher\:\ New\ York\ News,\ Genre\:\ Local\ News\ Annual\ publications\:\ 52\r\n\ \r\n\ @return\ returnString\ \ \ \ \ returns\ a\ string\ of\ information\ about\ the\ news\ paper\r\n
+numComments=4

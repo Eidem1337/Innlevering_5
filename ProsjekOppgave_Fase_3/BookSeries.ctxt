@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=title\ publisher
+comment0.target=BookSeries(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BookSeries\r\n
+comment1.params=
+comment1.target=java.lang.String\ getAuthor()
+comment1.text=\r\n\ Get\ method\ for\ the\ author\ variable.\ \r\n\ \r\n\ @return\ author\ \ \ \ \ \ \ returnes\ the\ name\ of\ the\ author\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSecondTitle()
+comment2.text=\r\n\ Get\ method\ for\ the\ secondTitle\ variable\r\n\ Returns\ the\ second\ title.\ E.i.\ First\ Name\ -\ Second\ Name.\ Represents\ the\ name\r\n\ of\ a\ follow\ up\ book\ in\ the\ series.\r\n\ \r\n\ @return\ secondTitle\ \ \ \ \ \ Returns\ the\ second\ name\ of\ a\ follow\ up\ for\ a\ book\r\n
+comment3.params=
+comment3.target=java.lang.String\ getReleaseDate()
+comment3.text=\r\n\ Get\ method\ for\ the\ release\ date\ of\ the\ BookSeries\r\n\ \r\n\ @return\ releaseDate\ \ \ \ \ \ Date\ of\ the\ released\ book.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getBookSeriesInfo()
+comment4.text=\r\n\ Get\ method\ for\ a\ string\ of\ information\ about\ the\ given\ book\ series.\r\n\ \r\n\ @return\ returnString\ \ \ \ \ a\ string\ of\ information\r\n
+numComments=5
